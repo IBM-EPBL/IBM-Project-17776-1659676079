@@ -1,0 +1,3 @@
+Data collection
+Data preprocessing
+Model Building

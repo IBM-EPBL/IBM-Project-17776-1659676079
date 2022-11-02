@@ -1,0 +1,2 @@
+Deploy the ML model in IBM clod
+Integrate the web page with the IBM Model

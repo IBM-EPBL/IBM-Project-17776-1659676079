@@ -1,0 +1,4 @@
+Create the webpage:
+ * Homepage
+ * Precaution page
+ * Test vitals page

@@ -1,0 +1,3 @@
+Registration page
+Login Page
+Result Page
