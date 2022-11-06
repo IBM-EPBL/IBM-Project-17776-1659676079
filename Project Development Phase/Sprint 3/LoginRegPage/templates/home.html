@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>HomePage</title>
+        <style>
+            body{
+                background-image: linear-gradient(rgba(218, 185, 231, 0.9), rgba(0,0,0,0.4)),url("https://cdn-prod.medicalnewstoday.com/content/images/articles/323/323634/neurons-in-parkinson-s-disease.jpg");
+                position: relative;
+                background-size: cover;
+                background-repeat: no-repeat;
+                height: 100%;
+                width: 100%;
+            }
+            h3{
+                text-align:center;
+                color:white;
+            }
+            .main{
+                margin-top:100px;
+            }
+            p{
+                color:white;
+                text-indent:10px;
+                margin:10px;
+                font-size:20px;
+            }
+            .navbar{
+            margin: 0px;
+            padding:20px;
+            background-color:rgb(169, 120, 159);
+            opacity:0.6;
+            color:black;
+            font-family:'Roboto',sans-serif;
+            font-style: italic;
+            border-radius:20px;
+            font-size:25px;
+            }
+            a{
+            color:rgb(11, 3, 21);
+            float:right;
+            text-decoration:none;
+            font-style:normal;
+            padding-right:20px;
+            }
+            a:hover{
+            background-color:black;
+            color:white;
+            border-radius:15px;
+            font-size:30px;
+            padding-left:10px;
+            }
+            img{
+            width:450px;
+            height:400px;
+            padding:25px;
+
+            }
+            img:hover{
+            border-radius:100px;
+            border-color:grey;
+            }
+            #im{
+            width:1450px;
+            height:700px;
+            padding:25px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="navbar">
+            <a href="/logout" >Logout</a>
+            <a href="/upload" >Predict</a>
+            <a href="/home">Home</a>
+            <a>Welcome {{name}} !</a>
+            <br>
+        </div>
+        <br>
+        <center><b class="pd"><font color="white" size="15" font-family="Comic Sans MS" >Detecting Parkinson Disease using ML</font></b></center>
+        <div>
+        <br>
+        <br>
+        <center>
+        <p>Parkinson's disease (PD) is a prevalent neurodegenerative disease affecting about 1% of the world population over the age of 55 (Nussbaum and Ellis, 2003). About five million people worldwide are estimated to have PD. PD Prevalence is expected to double by the year 2030 . Parkinson's disease (PD) patient care is limited by inadequate, sporadic symptom monitoring, infrequent access to care, and sparse encounters with healthcare professionals leading to poor medical decision making and sub-optimal patient health-related outcomes. Recent advances in digital health approaches have enabled objective and remote monitoring of impaired motor function with the promise of profoundly changing the diagnostic, monitoring, and therapeutic landscape in PD.</p>  
+        </center>
+        <span><img src="https://www.narayanahealth.org/blog/wp-content/uploads/2015/04/parkinson.png" title="Disease"></span>
+        <span><img src="https://stanfordmedicine25.stanford.edu/the25/parkinsondisease/_jcr_content/main/panel_builder_0/panel_0/panel_builder_0/panel_0/panel_builder/panel_0/image.img.476.high.png/1.png" title="Symptoms"></span>
+        <span><img src="https://www.verywellhealth.com/thmb/Aaqo8oM3QDHSNHCt_DlKCNeWoUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/zhansen-5200700_Finaledit2-3e7eb00f1bdb4806adb3f67ca4404894.jpg" title="Stages"></span>
+        <span><img src="https://www.gutmicrobiotaforhealth.com/wp-content/uploads/2016/12/parkinson.jpg" title="Effect"></span>
+        <span><img src="https://i.pinimg.com/originals/02/16/e4/0216e4b8a5db4d6e2a3f7043eaf7dc32.jpg" title="Cause"></span>
+        <span><img src="https://jnnp.bmj.com/content/jnnp/91/8/795/F4.large.jpg" title="diagnosis"></span>
+        <span><img id="im" src="https://www.genengnews.com/wp-content/uploads/2019/06/203938_web.jpg" title="Stage"></span>
+        <br><br><br><br><br>
+        </div>
+    </body>
+</html>
