@@ -6,8 +6,7 @@
 
 <li>TEAM ID : PNT2022TMID22047
 <li>TEAM LEAD: SARANYA.S
-<li>TEAM MEMBERS:
-       <ul>SRIMATHI.S |
+<li>TEAM MEMBERS:SRIMATHI.S |
            ROOBASHREE.S |
            SWATHI.A
 
