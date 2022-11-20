@@ -8,6 +8,6 @@
 <li>TEAM LEAD: SARANYA.S
 <li>TEAM MEMBERS:
        <ul>SRIMATHI.S
-       <ul>ROOBASHREE.S
-       <ul>SWATHI.A
+           ROOBASHREE.S
+           SWATHI.A
 
