@@ -4,11 +4,9 @@
 
 ### The project is all about training the Machine Learning model using RandomForestClassifier for early prediction of Parkinson's disease so that affected people can take medications at an early stage to improve the quality of their life.
 
-<li>
-      TEAM ID : PNT2022TMID22047
-      TEAM LEAD: SARANYA.S
-      TEAM MEMBERS:
-
+<li>TEAM ID : PNT2022TMID22047
+<li>TEAM LEAD: SARANYA.S
+<li>TEAM MEMBERS:
        * SRIMATHI.S
        * ROOBASHREE.S
        * SWATHI.A
